@@ -17,6 +17,3 @@ class Dog
 end 
 
 
-  
-  
->>>>>>> d89d0fc5adb2e7f92a23524f744aa7196dc63311
